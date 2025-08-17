@@ -2,29 +2,26 @@
 
 *About Me:*
 
-Hello! I am a Computer Engineering undergrad with an interest in learning hardware and software. My topics of interest involve VLSI Design (Chip Layout, STA, Verification), PCB Design (Signal Routing, Power Analysis), Embedded Systems, and Software Engineeering. On the side, you can find me being creative in Premiere Pro/After Effects, hanging out with close friends, listening to music, or learning a new valuable skill. Feel free to take a look at my contributions/skills, and if you'd like to work with me, reach out via [LinkedIn](https://www.linkedin.com/in/aguilar7/)! 
+Hello! I am a Computer Engineering undergrad with an interest in hardware and software. My topics of interest involve VLSI Design (Digital & Analog), PCB Design, Embedded Systems, and Software Engineering. On my spare time, you can find me being creative (video editing), hanging out with close friends, listening to music, or learning a new valuable skill. Feel free to take a look at my contributions/skills, and if you'd like to work with me, feel free to reach me via [LinkedIn](https://www.linkedin.com/in/aguilar7/)! 
 
-**Hardware Skills**
+**VLSI Skills**
 
-* Verilog/SystemVerilog
+* RTL Design (Verilog/SystemVerilog/UVM)
 * Static Timing Analysis
-* CMOS Logic
-* Digital Logic
-* MOSFET's
-* BJT's
-* Scripting
+* Clock Tree Synthesis
+* Layout Design
+* C, C++, Python, TCL, Perl
+
+**Embedded Systems Skills**
+* UART, Bluetooth
+* Floating Point Unit, Pulse Width Modulation, PID Control
+* Ping-Pong Buffer, Interrupts
+* RTOS
 
 **Hardware Tools**
 
-* Altium Designer
-* LTspice
-* AutoCAD
-* KiCAD
+* Altium Designer, AutoCAD, LTspice, Sky130PDK, Xschem, Yosys, Magic, Netgen, Linux
 
-**Software Skills/Tools**
+**Software Skills / Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,c,cpp,py,html,css,js,matlab)](https://skillicons.dev)
-
-**Other Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=ae,premiere,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,c,cpp,py,html,css,js,php,nodejs,react)](https://skillicons.dev)
