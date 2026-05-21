@@ -1,6 +1,6 @@
 ## *Juan Aguilar*  🧗🏻🏋🏻✍🏻🪵
 
-Wannabe chip designer.  Certified passionate enthusiast maniac for improving educational prowess.
+Certified passionate enthusiast maniac for improving educational prowess.
 
 ## Currently Learning
 
@@ -15,7 +15,5 @@ Wannabe chip designer.  Certified passionate enthusiast maniac for improving edu
 - VIM for the 100th time
 
 - HPC (High performing cortisol, working on the computing part)
-
-Building the plane as im flying it...can't get it to start though.
 
 My projects are over there 👇
