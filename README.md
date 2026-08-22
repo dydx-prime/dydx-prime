@@ -4,16 +4,8 @@ Certified passionate enthusiast maniac for improving educational prowess.
 
 ## Currently Learning
 
-- Changing the desktop wallpaper
+- RISC-V Architecture
 
-- Cracking an egg (hard)
+- C++ Concurrency
 
-- Being an adult (easy)
-
-- Touching grass (report pending)
-
-- VIM for the 100th time
-
-- HPC (High performing cortisol, working on the computing part)
-
-My projects are over there 👇
+Check out my pinned projects below!
